@@ -260,7 +260,7 @@ button{
     .cont-left .image{
         height: 300px;
         /* bottom: 0; */
-        margin-top: 170px;
+        margin-top: 0px;
         /* justify-content: none; */
     }
 
